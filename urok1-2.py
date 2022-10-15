@@ -4,7 +4,7 @@ from tkinter import *
 def test(argument):
     print(argument)
 
-test("test")
+test("print hello")
 
 list = []
 list.append("shtoto")
